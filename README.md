@@ -9,3 +9,5 @@ This repository contains:
 
 ## USAGE
 For using the notebooks open both the notebooks in **Google Colab**.
+
+![Sample_Image](https://github.com/nerdishhomosapein/Image_Text_Detection_Recognition_Translation/blob/main/Sample_Image.jpg)
